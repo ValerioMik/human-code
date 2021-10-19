@@ -36,11 +36,69 @@ Apro Visual studio
             °esco dall'App
             ° incollo nella cartella immagini le img
 Nel file Html immetto la struttura base 
-               
+Nel file css imposto le regole generali
 Commento la macrostruttura 
-
 Creo la struttura principale
-Controllo la somiglianza con i layout 
+    SE tutto va liscio
+        -continuo l'esercizio
+        - -scrivo delle classi per ogni elemento da modificare
+    ALTRIMENTI
+        -cerco di risolvere il problema
+            SE risolvo il problema
+                °continuo l'esercizio
+            ALTRIMENTI
+                °apro un Tiket
+                °scivo nel dettaglio il problema che mi è sorto
+                °invio il Tiket
+                °aspetto la risposta
+                    SE ho capito la soluzione 
+                        -continuo
+                   ALTRIMENTI
+                        .chiedo ulteriori chiarimenti
+Do le regole di stile 
+    -copio le classi dai file html 
+    - do uno stile alle classi 
+durante l'esercizio creo un commit
+Aggiungo tutte le modifiche apportate durante lo sviluppo
+    -scrivo un commento senzato dello step in cui sono arrivato
+    -premo su esegui
+     SE sono a buo punto
+        -faccio un Push
+    ALTRIMENTI
+        -aggiungo qualche altra modifica
+Controllo la somiglianza con il layout originale
+    SE sono convinto della somiglianza
+        -Aggiusto i dettaglio
+        -facciom un commit
+        -faccio un pusch
+        -creo una cartella BOnus
+        -inizio un BOnus
+    ALTRIMENTI
+        -ispeziono la pagina
+        -controllo dove ho sbagliato
+        -cerco di sistemare gli errori
+            SE ho trovato gli errori
+                -Correggo e modifico
+                -e passo allo step successivo
+            ALTRIMENTI
+               - Faccio una pausa
+               -faccio riposare il cervello
+               -prendo un caffe
+               -riprovo a leggere tutto
+il layot mi sembra uguale               
+  -faccio lultimo pusch
+  -spengo il computer  
+    SE ho ancora voglia
+        -Esco
+    ALTRIMENTI
+        -Ritenta sarai piu fortunato ;-)
+
+
+
+
+
+
+
 
 
 
