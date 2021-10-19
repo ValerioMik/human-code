@@ -1,0 +1,46 @@
+Seguo la lezione 
+    SE ho capito bene
+        -vado avanti, 
+        -mi concetro nella apprenzione delle linee guida 
+    ALTRIMENTI
+        -riguardo la video lezione,
+        -ripasso i punti chiave 
+
+Aspetto le linee guida
+    Controllo le notifiche
+        -apro l'app con  le linee nguida
+Leggo le linee
+    SE ho compreso
+        -  Esco dall'app
+    ALTRIMENTI
+        - rileggo
+
+creo una mappa mentale dell'esercizioi
+
+Creo una repo
+    -apro la notifica 
+        *cerco la repo
+        *copio la repo 
+        *la incollo su GItHUB
+Apro Visual studio
+    -Creo un file
+        *creo un file style.html
+    -creo una cartella Css
+        *al suo interno creo un file index.css
+    -creo una cartella img
+        *importo immagini dalle linee guida
+            °apro l'app 
+            °scarico le immagini
+            °apro la cartella 
+            °copio le immagini
+            °esco dall'App
+            ° incollo nella cartella immagini le img
+Nel file Html immetto la struttura base 
+               
+Commento la macrostruttura 
+
+Creo la struttura principale
+Controllo la somiglianza con i layout 
+
+
+
